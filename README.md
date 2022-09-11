@@ -2,7 +2,7 @@
 - 👀 We're interested in Coding/Problem Solving
 - 🌱 We're currently ...
 - 💞️ We're looking to collaborate
-- 📫 How to reach me kodefyi@gmail.com
+- 📫 How to reach us kodefyi@gmail.com
 
 <!---
 kodefyi/kodefyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
